@@ -1,5 +1,7 @@
 # 🏥 Healthcare Coding Automation API
 
+![Healthcare Coding Automation API](https://i19jax5jy5.ufs.sh/f/z2Za8Zqs0NofJ0ObzN5fKHFj8RdLk0l9nPCAt3iUToshNB25)
+
 REST API pro automatizaci kódování a vykazování zdravotní péče pojišťovnám v České republice.
 
 ## 📋 O projektu
